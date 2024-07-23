@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\GlobalModule.ixx.obj",
+            "outputs": [
+                "D:\\MojeRepo\\e58e948c-gr12-repo\\Projekt\\ProjectUNO\\ProjectUNO\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\MojeRepo\\e58e948c-gr12-repo\\Projekt\\ProjectUNO\\ProjectUNO\\x64\\Debug\\GlobalModule.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "GlobalModule",
+                    "source-path": "d:\\mojerepo\\e58e948c-gr12-repo\\projekt\\projectuno\\projectuno\\globalmodule.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Deck.h",
+                    "source-path": "D:\\MojeRepo\\e58e948c-gr12-repo\\Projekt\\ProjectUNO\\ProjectUNO\\Deck.h",
+                    "lookup-method": "include-quote",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

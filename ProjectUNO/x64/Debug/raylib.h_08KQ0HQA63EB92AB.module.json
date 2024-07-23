@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\raylib.h_08KQ0HQA63EB92AB.obj",
+            "outputs": [
+                "D:\\MojeRepo\\e58e948c-gr12-repo\\Projekt\\ProjectUNO\\ProjectUNO\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\raylib.h_08KQ0HQA63EB92AB.module.json",
+                "x64\\Debug\\raylib.h_08KQ0HQA63EB92AB.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\joszk\\Downloads\\vcpkg-master (1)\\vcpkg\\installed\\x64-windows\\include\\raylib.h",
+                    "source-path": "c:\\users\\joszk\\downloads\\vcpkg-master (1)\\vcpkg\\installed\\x64-windows\\include\\raylib.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

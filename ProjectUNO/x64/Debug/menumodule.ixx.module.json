@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\MenuModule.ixx.obj",
+            "outputs": [
+                "D:\\MojeRepo\\e58e948c-gr12-repo\\Projekt\\ProjectUNO\\ProjectUNO\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\MojeRepo\\e58e948c-gr12-repo\\Projekt\\ProjectUNO\\ProjectUNO\\x64\\Debug\\MenuModule.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "MenuModule",
+                    "source-path": "d:\\mojerepo\\e58e948c-gr12-repo\\projekt\\projectuno\\projectuno\\menumodule.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "GlobalModule"
+                }
+            ]
+        }
+    ]
+}

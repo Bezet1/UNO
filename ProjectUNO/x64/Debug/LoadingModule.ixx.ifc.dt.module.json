@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\mojerepo\\e58e948c-gr12-repo\\projekt\\projectuno\\projectuno\\loadingmodule.ixx",
+        "ProvidedModule": "LoadingModule",
+        "ImportedModules": [
+            "GlobalModule"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

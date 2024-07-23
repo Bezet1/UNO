@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\DiscardPile.cppm.obj",
+            "outputs": [
+                "D:\\MojeRepo\\e58e948c-gr12-repo\\Projekt\\ProjectUNO\\ProjectUNO\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

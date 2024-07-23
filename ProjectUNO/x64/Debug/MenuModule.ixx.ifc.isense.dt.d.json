@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\mojerepo\\e58e948c-gr12-repo\\projekt\\projectuno\\projectuno\\menumodule.ixx",
+        "ProvidedModule": "MenuModule",
+        "Includes": [
+            "c:\\users\\joszk\\downloads\\vcpkg-master (1)\\vcpkg\\installed\\x64-windows\\include\\raylib.h",
+            "d:\\visual studio\\community\\vc\\tools\\msvc\\14.39.33519\\include\\stdarg.h",
+            "d:\\visual studio\\community\\vc\\tools\\msvc\\14.39.33519\\include\\vcruntime.h",
+            "d:\\visual studio\\community\\vc\\tools\\msvc\\14.39.33519\\include\\sal.h",
+            "d:\\visual studio\\community\\vc\\tools\\msvc\\14.39.33519\\include\\concurrencysal.h",
+            "d:\\visual studio\\community\\vc\\tools\\msvc\\14.39.33519\\include\\vadefs.h",
+            "d:\\visual studio\\community\\vc\\tools\\msvc\\14.39.33519\\include\\stdbool.h"
+        ],
+        "ImportedModules": [
+            {
+                "Name": "GlobalModule",
+                "BMI": "D:\\MojeRepo\\e58e948c-gr12-repo\\Projekt\\ProjectUNO\\ProjectUNO\\x64\\Debug\\GlobalModule.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
